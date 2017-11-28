@@ -1,0 +1,13 @@
+{
+  "name": "jest-servers",
+  "version": "0.0.0",
+  "description": "Startup a server when Jest starts, kill it when Jest exits",
+  "main": "index.js",
+  "repository": "https://github.com/thejameskyle/jest-servers",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.57.3",
+    "jest": "^21.2.1"
+  }
+}
